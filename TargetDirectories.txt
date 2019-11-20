@@ -1,0 +1,3 @@
+C:/Users/pchernichenko/Desktop/TempIsoSurface/Build/CMakeFiles/TempIsoSurface.dir
+C:/Users/pchernichenko/Desktop/TempIsoSurface/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pchernichenko/Desktop/TempIsoSurface/Build/CMakeFiles/ZERO_CHECK.dir
